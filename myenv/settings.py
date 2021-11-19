@@ -133,11 +133,10 @@ STATIC_URL = '/static/'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static_cdn')
 
-GOOGLE_API_KEY = ""
+GOOGLE_API_KEY = "AIzaSyCsV50LZ5M_OGC7GQEWWjFENu9gq0RMP4M
 
-RECAPTCHA_PUBLIC_KEY = ""
-
-RECAPTCHA_PRIVATE_KEY = ""
+RECAPTCHA_PUBLIC_KEY = "6LdwMBQcAAAAABJutBFzJlJ9PONfJClKUPs_hmzG"
+RECAPTCHA_PRIVATE_KEY = "6LdwMBQcAAAAAIRoYBSJWyIPb3lJnZqnGoDonq_A"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
